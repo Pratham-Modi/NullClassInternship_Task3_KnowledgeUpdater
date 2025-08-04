@@ -1,0 +1,6 @@
+streamlit
+sentence-transformers
+wikipedia
+python-dotenv
+google-generativeai
+chromadb
