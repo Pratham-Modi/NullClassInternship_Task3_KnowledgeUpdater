@@ -111,6 +111,7 @@ streamlit run app.py
 📡 Automatically reaches out to Gemini when local info is missing  
 🔒 `.env` is excluded via `.gitignore` to protect API keys  
 📂 Runs locally with no external database setup required
+📁 The `data/` folder is initially empty and gets populated automatically with fetched and processed topic data during app usage.
 
 ---
 
