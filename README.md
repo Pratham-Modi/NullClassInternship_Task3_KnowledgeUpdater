@@ -1,5 +1,7 @@
 # 🧠 Task 3: AI-Powered Knowledge Updater
 
+This project empowers users to interact with a continuously evolving AI knowledge base combining local data storage with powerful language models.
+
 This project is a smart and efficient **Knowledge Updater chatbot** that allows users to:
 
 - 🔍 Ask questions on general topics  
@@ -55,7 +57,7 @@ Task3_KnowledgeUpdater/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/NullClassInternship_Task3_KnowledgeUpdater.git
+git clone https://github.com/Pratham-Modi/NullClassInternship_Task3_KnowledgeUpdater
 cd NullClassInternship_Task3_KnowledgeUpdater
 ```
 
@@ -125,12 +127,5 @@ python-dotenv
 
 ---
 
-## 🔗 GitHub Repository
-
-[📁 View Project on GitHub](https://github.com/your-username/NullClassInternship_Task3_KnowledgeUpdater)
-
----
-
-## 👨‍💻 Developed by
 **Pratham Modi**  
 📅 July 2025
